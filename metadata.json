@@ -1,0 +1,6 @@
+{
+  "name": "অষ্টম শ্রেণি গণিত ২০২৬ (Class 8 Math)",
+  "description": "Class 8 Mathematics 2026 - 500-Slide Interactive Digital Textbook, Text-to-Speech Audio Reader, Math Equation Solver & Peer Study",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
